@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{354:function(t,e,n){"use strict";n.r(e);var s={props:["slot-key"],mounted(){this.$page.lastUpdated}},l=n(22),a=Object(l.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,null,null);e.default=a.exports}}]);
